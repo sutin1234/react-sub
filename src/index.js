@@ -4,7 +4,7 @@ import {
 } from "react-router-dom";
 import App from './App'
 render(
-  <BrowserRouter basename="/myapp">
+  <BrowserRouter basename="/react-sub">
     <App />
   </BrowserRouter>,
   document.getElementById("root")
