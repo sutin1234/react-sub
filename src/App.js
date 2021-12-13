@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to React Router!</h1>
+      <Link to="/">Index</Link> |
       <Link to="/home">Home</Link> |
       <Link to="/about">About</Link> |
       <Link to="/product">Product</Link>
